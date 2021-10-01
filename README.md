@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Analysis
 
 
 ## New Analysis overview
@@ -18,7 +18,7 @@ In terms of fares, Urban cities had a total of $39,854.38, while Suburban cities
 
 When we see the data over time, we can see the proportionality of the Total Fares, with Urban cities Total Fares being approximately 10 x over Rural Cities and 2x over Suburban Cities:
 
-![](analysis/Pyber_fare_summary)
+![](analysis/Pyber_fare_summary.png)
 ### Fig 2 Total Fare by City Type over time
 
 Another interesting facts found in the data is that even though the number of total drivers is significantly lower in Rural Cities (78) when compared to Suburban (625) and Urban Cities (2405), the average fares are higher in Rural Cities.
